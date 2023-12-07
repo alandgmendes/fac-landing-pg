@@ -20,6 +20,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"],
+  "include": ["src", "../../old_files/canva_files/748c577b23dd390a893c7e346b13f214561d691581b6103365505b7c93147ad1.js"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
